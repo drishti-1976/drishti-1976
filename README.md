@@ -23,22 +23,12 @@
 
 ### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
 
 ### 📊 Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-
----
-
-## 📌 Featured Projects
-🚧 *Coming soon…*  
-- 📊 Data Analysis & Visualization Projects  
-- 🤖 Machine Learning Models  
-- 🌐 Full-Stack MERN Applications  
 
 ---
 
