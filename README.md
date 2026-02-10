@@ -3,7 +3,7 @@
 🎓 **M.Sc Computer Science (Specialization: Data Science)** – *Panjab University*  
 🎓 **B.Sc Data Science & AI (2022–2025)** – *GJU Hisar*  
 
-💡 Data Science | 🤖 Machine Learning |   
+💡 Data Science | 🤖 Machine Learning 
 
 ---
 
@@ -18,8 +18,7 @@
 
 ### 👩‍💻 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
