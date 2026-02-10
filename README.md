@@ -31,13 +31,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Drishti's GitHub stats](https://github-readme-stats.vercel.app/api?username=suniti-0020&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suniti-0020&layout=compact&theme=tokyonight)
-
----
-
 ## 🔗 Connect with Me
 - 📧 Email: **2005drishti@gmail.com**  
 - 💼 LinkedIn: **https://linkedin.com/in/drishti1976**
